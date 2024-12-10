@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'taskapp.apps.TaskappConfig',
+    'datetaskapp.apps.DatetaskappConfig',
 ]
 
 MIDDLEWARE = [
